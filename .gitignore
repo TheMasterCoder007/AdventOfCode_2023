@@ -1,0 +1,5 @@
+# folder properties
+.DS_Store
+
+# jet brains webstorm
+.idea
