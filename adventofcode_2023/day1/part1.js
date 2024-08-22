@@ -1,5 +1,5 @@
 // import helper functions
-const { getInputByLine, getSumOfNumbers } = require("../helperFunctions");
+const { getInputByLine, getSumOfNumbers } = require('../helperFunctions');
 
 // parse calibration values from input data
 function getCalibrationValues(inputData) {

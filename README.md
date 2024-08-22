@@ -30,12 +30,12 @@ goals with advent of code.
 ### Language: JavaScript
 
 
-| Day | Part1 | Part2 | Description                                                                                                                     |
-|-----|-------|-------|---------------------------------------------------------------------------------------------------------------------------------|
-| #1  | [x]   | [x]   | This challenge was fairly simple to solve and required the ability to parse a string of text for digits (written and numerical) |
-| #2  | [ ]   | [ ]   |                                                                                                                                 |
-| #3  | [ ]   | [ ]   |                                                                                                                                 |
-| #4  | [ ]   | [ ]   |                                                                                                                                 |
-| #5  | [ ]   | [ ]   |                                                                                                                                 |
-| #5  | [ ]   | [ ]   |                                                                                                                                 |
+| Day | Part1 | Part2 | Description                                                                                                              |
+|-----|-------|-------|--------------------------------------------------------------------------------------------------------------------------|
+| #1  | [x]   | [x]   | This challenge required the ability to parse a string of text for digits (written and numerical).                        |
+| #2  | [x]   | [x]   | This challenge required the ability to parse a string of text for digits and words and then sort the data appropriately. |
+| #3  | [ ]   | [ ]   |                                                                                                                          |
+| #4  | [ ]   | [ ]   |                                                                                                                          |
+| #5  | [ ]   | [ ]   |                                                                                                                          |
+| #5  | [ ]   | [ ]   |                                                                                                                          |
 
